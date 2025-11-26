@@ -1,0 +1,7 @@
+{
+  "id":"r004","title":"Upma","region":"South","diet":"veg","tags":["breakfast"],
+  "cook_time_min":15,"servings":2,"spice_level":"low",
+  "ingredients":[{"item":"rava","qty":"1 cup"},{"item":"ghee","qty":"1 tbsp"}],
+  "steps":["Roast rava","Cook with veggies","Serve hot"],"one_line_summary":"Savory semolina porridge.",
+  "source_url":"synthesized","license":"synthesized","curation_status":"synthesized","created_at":"2025-11-26T00:00:00Z"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "r095",
+  "title": "Upma",
+  "region": "South",
+  "diet": "nonveg",
+  "tags": [
+    "indian",
+    "south",
+    "nonveg"
+  ],
+  "cook_time_min": 40,
+  "servings": 2,
+  "spice_level": "low",
+  "ingredients": [
+    {
+      "item": "salt",
+      "qty": "1 tsp"
+    },
+    {
+      "item": "oil",
+      "qty": "1 tbsp"
+    },
+    {
+      "item": "onion",
+      "qty": "1/2 cup"
+    },
+    {
+      "item": "chicken",
+      "qty": "1 cup"
+    },
+    {
+      "item": "egg",
+      "qty": "1 tbsp"
+    }
+  ],
+  "steps": [
+    "Prep ingredients",
+    "Cook on medium flame",
+    "Serve hot"
+  ],
+  "one_line_summary": "Upma \u2014 classic South Indian dish.",
+  "source_url": "synthesized",
+  "license": "synthesized",
+  "curation_status": "synthesized",
+  "created_at": "2025-11-26T15:44:14.504219"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "r066",
+  "title": "Chole Bhature",
+  "region": "North",
+  "diet": "veg",
+  "tags": [
+    "indian",
+    "north",
+    "veg"
+  ],
+  "cook_time_min": 30,
+  "servings": 2,
+  "spice_level": "medium",
+  "ingredients": [
+    {
+      "item": "salt",
+      "qty": "1 tsp"
+    },
+    {
+      "item": "oil",
+      "qty": "1 tbsp"
+    },
+    {
+      "item": "onion",
+      "qty": "1/2 cup"
+    },
+    {
+      "item": "paneer",
+      "qty": "1/2 cup"
+    },
+    {
+      "item": "rice",
+      "qty": "1 tbsp"
+    }
+  ],
+  "steps": [
+    "Prep ingredients",
+    "Cook on medium flame",
+    "Serve hot"
+  ],
+  "one_line_summary": "Chole Bhature \u2014 classic North Indian dish.",
+  "source_url": "synthesized",
+  "license": "synthesized",
+  "curation_status": "synthesized",
+  "created_at": "2025-11-26T15:44:14.482220"
+}
