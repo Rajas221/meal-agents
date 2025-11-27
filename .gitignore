@@ -1,0 +1,23 @@
+@"
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Build artifacts
+*.idx
+*.npy
+*.log
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+pytest_cache/
+"@ | Out-File -Encoding utf8 .gitignore
